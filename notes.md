@@ -6,7 +6,7 @@
     - What is an activity?
     - What is a resource?
     - Start with the activities
-    - Interactions - the good, the bad & the ugly
+    - Interaction and engagement - the good, the bad & the ugly
 * [Measuring what's important](chapter4/index.md)
     - Why track resources?
     - Make the important measurable, not the measurable important
