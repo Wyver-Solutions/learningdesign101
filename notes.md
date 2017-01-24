@@ -24,4 +24,9 @@
 * Putting it together
     - What will the learner do?
     - What decisions will they need to make?
+
+Agile
+- Teams
+- Stages
+- Building trust & confidence
     

@@ -8,4 +8,5 @@
 * [Managing activities](chapter5/index.md)
 * [Managing resources](chapter6/index.md)
 * [Putting it together](chapter7/index.md)
+* [Notes](notes.md)
 

@@ -2,6 +2,6 @@
     "title": "Learning Design 101",
     "description": "",
     "author": "Mark Berthelemy",
-    "plugins": ["toggle-chapters", "betterpagetitles", "image-wrapper"]
+    "plugins": ["toggle-chapters", "betterpagetitles", "image-wrapper","-sharing"]
      }
 
